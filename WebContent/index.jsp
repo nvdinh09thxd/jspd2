@@ -9,13 +9,13 @@
 </head>
 <body>
 	<h1>Danh sách các phần JAVA cần học</h1>
-	<%!public static final int a = 10;
-
+	<%!
 	public int random() {
 		Random rd = new Random();
 		int n = rd.nextInt(11);
 		return n;
 	}%>
+	
 	<%
 		//scriplet
 	int n = random();

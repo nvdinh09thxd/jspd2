@@ -8,7 +8,7 @@
 <title>VinaEnter EDU - Đã học là làm được</title>
 <meta name="description" content="Thiet ke website, dao tap lap trinh">
 <meta name="keywords" content="thiet ke website, dao tap lap trinh">
-<link href="<%=request.getContextPath() %>/views/basic/style.css" rel="stylesheet" type="text/css">
+<link href="<%=request.getContextPath() %>/views/basic/css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div class="wrapper">
