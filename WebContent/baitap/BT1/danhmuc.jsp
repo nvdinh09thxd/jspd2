@@ -12,11 +12,11 @@
 				<ul>
 					<li>
 						<h2>
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">
 								Trung Quốc điều thêm 17 tàu đến khu vực giàn khoan </a>
 						</h2>
 						<div class="item">
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">
 								<img src="<%=request.getContextPath()%>/templates/BT1/images/tmp/h1.jpg" alt="" />
 							</a>
 							<p>Để bảo vệ giàn khoan, Trung Quốc đã điều thêm 17 tàu các
@@ -26,11 +26,11 @@
 					</li>
 					<li>
 						<h2>
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">Trọng
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">Trọng
 								tài - vết đen của kỳ World Cup sôi động </a>
 						</h2>
 						<div class="item">
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title=""><img
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title=""><img
 								src="<%=request.getContextPath()%>/templates/BT1/images/tmp/h2.jpg"
 								alt="" /></a>
 							<p>World Cup 2014 chưa đi hết lượt đầu vòng bảng nhưng các
@@ -41,11 +41,11 @@
 					</li>
 					<li>
 						<h2>
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">Những
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">Những
 								mỹ nhân Việt duyên dáng ở tuổi tứ tuần</a>
 						</h2>
 						<div class="item">
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title=""><img
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title=""><img
 								src="<%=request.getContextPath()%>/templates/BT1/images/tmp/h4.jpg"
 								alt="" /></a>
 							<p>Để bảo vệ giàn khoan, Trung Quốc đã điều thêm 17 tàu các
@@ -55,11 +55,11 @@
 					</li>
 					<li>
 						<h2>
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">Chuyển
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">Chuyển
 								nhượng 17/6: Arsenal mua Balotelli, tráo hàng Man Utd</a>
 						</h2>
 						<div class="item">
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title=""><img
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title=""><img
 								src="<%=request.getContextPath()%>/templates/BT1/images/tmp/h5.jpg"
 								alt="" /></a>
 							<p>Đội bóng thành London đang đẩy mạnh việc tuyển lựa những
@@ -69,11 +69,11 @@
 					</li>
 					<li>
 						<h2>
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title="">Chuyên
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title="">Chuyên
 								gia Anh tin chắc vị trí MH370 rơi</a>
 						</h2>
 						<div class="item">
-							<a href="<%=request.getContextPath()%>/BT1/chitiet.jsp" title=""><img
+							<a href="<%=request.getContextPath()%>/baitap/BT1/chitiet.jsp" title=""><img
 								src="<%=request.getContextPath()%>/templates/BT1/images/tmp/h1.jpg"
 								alt="" /></a>
 							<p>Các chuyên gia thuộc công ty viễn thông Anh Inmarsat cho

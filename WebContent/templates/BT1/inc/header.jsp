@@ -18,8 +18,8 @@
          </div>
          <div class="topmenu">
             <ul>
-               <li><a href="<%=request.getContextPath() %>/BT1/index.jsp">Trang chủ</a></li>
-               <li><a href="<%=request.getContextPath() %>/BT1/tintuc.jsp">Tin tức</a></li>
+               <li><a href="<%=request.getContextPath() %>/baitap/BT1/index.jsp">Trang chủ</a></li>
+               <li><a href="<%=request.getContextPath() %>/baitap/BT1/tintuc.jsp">Tin tức</a></li>
             </ul>
          </div>
       </div>

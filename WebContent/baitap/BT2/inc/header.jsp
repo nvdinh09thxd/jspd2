@@ -7,7 +7,7 @@
 		<title>VinaEnter EDU - Đã học là làm được</title>
 		<meta name="description" content="Thiet ke website, dao tap lap trinh">
 		<meta name="keywords" content="thiet ke website, dao tap lap trinh">
-		<link href="css/style.css" rel="stylesheet" type="text/css">
+		<link href="<%=request.getContextPath() %>/baitap/BT2/css/style.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
     	<!-- Header -->
@@ -31,8 +31,8 @@
                     <div class="grid_12">
                         <div id="logo">
                             <ul id="nav">
-                                <li id="current"><a href="<%=request.getContextPath() %>/BT2/index.jsp">Quản trị</a></li>
-                                <li><a href="<%=request.getContextPath() %>/BT2/taikhoan.jsp">Tài khoản</a></li>
+                                <li id="current"><a href="<%=request.getContextPath() %>/baitap/BT2/index.jsp">Quản trị</a></li>
+                                <li><a href="<%=request.getContextPath() %>/baitap/BT2/taikhoan.jsp">Tài khoản</a></li>
                             </ul>
                         </div><!-- End. #Logo -->
                     </div><!-- End. .grid_12-->
@@ -45,11 +45,11 @@
                 <div class="container_12">
                     <div class="grid_12">
                         <ul>
-                            <li><a href="<%=request.getContextPath() %>/BT2/list.jsp">sản phẩm</a></li>
-                            <li><a href="<%=request.getContextPath() %>/BT2/list.jsp">Danh mục sản phẩm</a></li>
-                            <li><a href="<%=request.getContextPath() %>/BT2/add.jsp">Giới thiệu</a></li>
-                            <li><a href="<%=request.getContextPath() %>/BT2/list.jsp">Đơn hàng</a></li>
-                            <li><a href="<%=request.getContextPath() %>/BT2/list.jsp">Liên hệ</a></li>
+                            <li><a href="<%=request.getContextPath() %>/baitap/BT2/list.jsp">sản phẩm</a></li>
+                            <li><a href="<%=request.getContextPath() %>/baitap/BT2/list.jsp">Danh mục sản phẩm</a></li>
+                            <li><a href="<%=request.getContextPath() %>/baitap/BT2/add.jsp">Giới thiệu</a></li>
+                            <li><a href="<%=request.getContextPath() %>/baitap/BT2/list.jsp">Đơn hàng</a></li>
+                            <li><a href="<%=request.getContextPath() %>/baitap/BT2/list.jsp">Liên hệ</a></li>
                         </ul>
                         
                     </div><!-- End. .grid_12-->
