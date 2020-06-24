@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT3/inc/header.jsp"%>
 
 <div id="main-body">
 	<div class="main-content">
-		<%@include file="inc/left-bar.jsp"%>
+		<%@include file="/templates/BT3/inc/left-bar.jsp"%>
 		<div class="body-right fr">
 			<div class="news-block">
 				<h2 class="title-cat">
@@ -14,13 +14,13 @@
 				<div class="content-cat1">
 					<div class="item-top">
 						<div class="item-left fl">
-							<a href="<%=request.getContextPath() %>/BT3/chitiet.jsp"
+							<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Thị trấn truyền thống Uchiko – Nhật Bản"> <img
-								src="<%=request.getContextPath() %>/BT3/images/thitran-Uchiko-nhatban.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/thitran-Uchiko-nhatban.jpg"
 								alt="Thị trấn truyền thống Uchiko – Nhật Bản"></a>
 						</div>
 						<div class="item-right-cat fr">
-							<a href="<%=request.getContextPath() %>/BT3/chitiet.jsp"
+							<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Thị trấn truyền thống Uchiko – Nhật Bản" class="title">Thị
 								trấn truyền thống Uchiko – Nhật Bản</a>
 							<div style="margin: 10px;"></div>
@@ -33,14 +33,14 @@
 					</div>
 					<div class="item">
 						<div class="item-left fl">
-							<a href="<%=request.getContextPath() %>/BT3/chitiet.jsp" title="Đền thiêng Sefa Utaki ở Okinawa">
-								<img src="<%=request.getContextPath() %>/BT3/images/Seifa-utaki.jpg"
+							<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp" title="Đền thiêng Sefa Utaki ở Okinawa">
+								<img src="<%=request.getContextPath() %>/templates/BT3/images/Seifa-utaki.jpg"
 								alt="Đền thiêng Sefa Utaki ở Okinawa">
 							</a>
 						</div>
 
 						<div class="item-right-cat fr">
-							<a href="<%=request.getContextPath() %>/BT3/chitiet.jsp" title="Đền thiêng Sefa Utaki ở Okinawa"
+							<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp" title="Đền thiêng Sefa Utaki ở Okinawa"
 								class="title">Đền thiêng Sefa Utaki ở Okinawa</a>
 							<div style="margin: 10px;"></div>
 							<p class="preview">Sefa Utaki nằm ở phía đông nam của đảo
@@ -55,7 +55,7 @@
 						<div class="item-left fl">
 							<a href="/Cay-cau-lon-Seto-Naikai-a217.html"
 								title="Cây cầu lớn Seto Naikai"> <img
-								src="<%=request.getContextPath() %>/BT3/images/Seto-Naikai.jpg" alt="Cây cầu lớn Seto Naikai"></a>
+								src="<%=request.getContextPath() %>/templates/BT3/images/Seto-Naikai.jpg" alt="Cây cầu lớn Seto Naikai"></a>
 						</div>
 
 						<div class="item-right-cat fr">
@@ -75,7 +75,7 @@
 						<div class="item-left fl">
 							<a href="/Nhung-bao-tang-co-mot-khong-hai-o-Nhat-Ban-a216.html"
 								title="Những bảo tàng có một không hai ở Nhật Bản"> <img
-								src="<%=request.getContextPath() %>/BT3/images/baotangthuoclavamuoi-tokyo.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/baotangthuoclavamuoi-tokyo.jpg"
 								alt="Những bảo tàng có một không hai ở Nhật Bản"></a>
 						</div>
 
@@ -95,7 +95,7 @@
 							<a
 								href="/Thieu-nu-Nhat-Ban-xinh-tuoi-don-le-Thanh-nhan-a215.html"
 								title="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân"> <img
-								src="<%=request.getContextPath() %>/BT3/images/thieununhatban-lethanhnhan.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/thieununhatban-lethanhnhan.jpg"
 								alt="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân"></a>
 						</div>
 
@@ -116,7 +116,7 @@
 						<div class="item-left fl">
 							<a href="/Tam-nuoc-lanh-om-tang-bang-lon-de-cau-may-a214.html"
 								title="Tắm nước lạnh, ôm tảng băng lớn để cầu may"> <img
-								src="<%=request.getContextPath() %>/BT3/images/tamnuoclanh-ombang_nhatban-1.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/tamnuoclanh-ombang_nhatban-1.jpg"
 								alt="Tắm nước lạnh, ôm tảng băng lớn để cầu may"></a>
 						</div>
 
@@ -137,7 +137,7 @@
 							<a
 								href="/‘Quan-Geisha’-o-Kyoto-va-nhung-chuyen-chua-biet-a213.html"
 								title="‘Quận Geisha’ ở Kyoto và những chuyện chưa biết"> <img
-								src="<%=request.getContextPath() %>/BT3/images/quan_Geisha_tokyo.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/quan_Geisha_tokyo.jpg"
 								alt="‘Quận Geisha’ ở Kyoto và những chuyện chưa biết"></a>
 						</div>
 
@@ -158,7 +158,7 @@
 						<div class="item-left fl">
 							<a href="/Luot-buyt-va-nghĩ-vè-van-minh-ỏ-Kyoto-a212.html"
 								title="“Lướt buýt” và nghĩ về văn minh ở Kyoto"> <img
-								src="<%=request.getContextPath() %>/BT3/images/giaothongnhatban-bus.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/giaothongnhatban-bus.jpg"
 								alt="“Lướt buýt” và nghĩ về văn minh ở Kyoto"></a>
 						</div>
 
@@ -179,7 +179,7 @@
 							<a
 								href="/Cam-hinh-ngu-giac-mang-lai-may-man-o-Nhat-Ban-a211.html"
 								title="Cam hình ngũ giác mang lại may mắn ở Nhật Bản"> <img
-								src="images/cam-hinh-ngu-giac-mang-lai-may-man-o-nhat-ban-2.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/cam-hinh-ngu-giac-mang-lai-may-man-o-nhat-ban-2.jpg"
 								alt="Cam hình ngũ giác mang lại may mắn ở Nhật Bản"></a>
 						</div>
 
@@ -201,7 +201,7 @@
 						<div class="item-left fl">
 							<a href="/Mua-xuan-sang-co-hoa-anh-dao-a210.html"
 								title="Mùa xuân sang có hoa anh đào..."> <img
-								src="images/hoa-anh-dao.jpg"
+								src="<%=request.getContextPath() %>/templates/BT3/images/hoa-anh-dao.jpg"
 								alt="Mùa xuân sang có hoa anh đào..."></a>
 						</div>
 
@@ -261,4 +261,4 @@
 		<div class="clr"></div>
 	</div>
 </div>
-<%@include file="inc/footer.jsp"%>
+<%@include file="/templates/BT3/inc/footer.jsp"%>

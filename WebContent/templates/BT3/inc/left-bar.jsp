@@ -3,10 +3,10 @@
 <div class="body-left fl">
 	<div class="left-menu">
 	<ul>
-		<li class="parent"><a href="<%=request.getContextPath() %>/BT3/danhmuc.jsp">Toàn cảnh Nhật Bản</a></li>
-		<li class="parent"><a href="<%=request.getContextPath() %>/BT3/danhmuc.jsp">Tin tức Việt - Nhật</a></li>
-		<li class="parent"><a href="<%=request.getContextPath() %>/BT3/danhmuc.jsp">Tin tức giải trí</a></li>
-		<li class="parent"><a href="<%=request.getContextPath() %>/BT3/danhmuc.jsp">Du học Nhật Bản</a></li>
+		<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp">Toàn cảnh Nhật Bản</a></li>
+		<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp">Tin tức Việt - Nhật</a></li>
+		<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp">Tin tức giải trí</a></li>
+		<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp">Du học Nhật Bản</a></li>
 	</ul>
 <div class="clr"></div>
 </div>

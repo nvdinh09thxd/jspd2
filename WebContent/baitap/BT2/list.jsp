@@ -1,13 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT2/inc/header.jsp"%>
 
 <div class="container_12">
 	<div class="bottom-spacing">
 		<!-- Button -->
 		<div class="float-left">
-			<a href="<%=request.getContextPath() %>/BT2/add.jsp" class="button">
-				<span>Thêm sản phẩm mới <img src="<%=request.getContextPath() %>/BT2/images/plus-small.gif" alt="Thêm tin mới"></span>
+			<a href="<%=request.getContextPath() %>/baitap/BT2/add.jsp" class="button">
+				<span>Thêm sản phẩm mới <img
+					src="<%=request.getContextPath() %>/templates/BT2/images/plus-small.gif"
+					alt="Thêm tin mới"></span>
 			</a>
 		</div>
 		<div class="clear"></div>
@@ -37,57 +39,66 @@
 								<td class="align-center">1</td>
 								<td><a href="">Hoa Phong Lan</a></td>
 								<td>Khai trương</td>
-								<td align="center"><img src="<%=request.getContextPath() %>/BT2/images/tmp/hoa1.jpg" class="hoa" /></td>
-								<td align="center">
-									<a href="">Sửa <img src="<%=request.getContextPath() %>/BT2/images/pencil.gif" alt="edit" /></a> 
-									<a href="">Xóa <img src="<%=request.getContextPath() %>/BT2/images/bin.gif" width="16" height="16" alt="delete" /></a>
-								</td>
+								<td align="center"><img
+									src="<%=request.getContextPath() %>/templates/BT2/images/tmp/hoa1.jpg"
+									class="hoa" /></td>
+								<td align="center"><a href="">Sửa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/pencil.gif"
+										alt="edit" /></a> <a href="">Xóa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/bin.gif"
+										width="16" height="16" alt="delete" /></a></td>
 							</tr>
 							<tr>
 								<td class="align-center">2</td>
 								<td><a href="">Hoa Tỉ muội</a></td>
 								<td>Khai trương</td>
-								<td align="center"><img src="<%=request.getContextPath() %>/BT2/images/tmp/hoa2.jpg" class="hoa" /></td>
-								<td align="center">
-									<a href="">Sửa <img src="<%=request.getContextPath() %>/BT2/images/pencil.gif" alt="edit" /></a> 
-									<a href="">Xóa <img src="<%=request.getContextPath() %>/BT2/images/bin.gif" width="16" height="16" alt="delete" /></a>
-								</td>
+								<td align="center"><img
+									src="<%=request.getContextPath() %>/templates/BT2/images/tmp/hoa2.jpg"
+									class="hoa" /></td>
+								<td align="center"><a href="">Sửa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/pencil.gif"
+										alt="edit" /></a> <a href="">Xóa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/bin.gif"
+										width="16" height="16" alt="delete" /></a></td>
 							</tr>
 							<tr>
 								<td class="align-center">3</td>
 								<td><a href="">Hoa Violet</a></td>
 								<td>Hoa kỷ niệm</td>
-								<td align="center">
-									<img src="<%=request.getContextPath() %>/BT2/images/tmp/hoa3.jpg" class="hoa" />
-								</td>
-								<td align="center">
-									<a href="">Sửa <img src="<%=request.getContextPath() %>/BT2/images/pencil.gif" alt="edit" /></a> 
-									<a href="">Xóa <img src="<%=request.getContextPath() %>/BT2/images/bin.gif" width="16" height="16" alt="delete" /></a>
-								</td>
+								<td align="center"><img
+									src="<%=request.getContextPath() %>/templates/BT2/images/tmp/hoa3.jpg"
+									class="hoa" /></td>
+								<td align="center"><a href="">Sửa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/pencil.gif"
+										alt="edit" /></a> <a href="">Xóa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/bin.gif"
+										width="16" height="16" alt="delete" /></a></td>
 							</tr>
 							<tr>
 								<td class="align-center">4</td>
 								<td><a href="">Hoa thủy tiên</a></td>
 								<td>Hoa tình yêu</td>
-								<td align="center">
-									<img src="<%=request.getContextPath() %>/BT2/images/tmp/hoa4.jpg" class="hoa" />
-								</td>
-								<td align="center">
-									<a href="">Sửa <img	src="<%=request.getContextPath() %>/BT2/images/pencil.gif"	alt="edit" /></a> 
-									<a href="">Xóa <img	src="<%=request.getContextPath() %>/BT2/images/bin.gif" width="16" height="16" alt="delete" /></a>
-								</td>
+								<td align="center"><img
+									src="<%=request.getContextPath() %>/templates/BT2/images/tmp/hoa4.jpg"
+									class="hoa" /></td>
+								<td align="center"><a href="">Sửa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/pencil.gif"
+										alt="edit" /></a> <a href="">Xóa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/bin.gif"
+										width="16" height="16" alt="delete" /></a></td>
 							</tr>
 							<tr>
 								<td class="align-center">5</td>
 								<td><a href="">Hoa cẩm chướng</a></td>
 								<td>Hoa hạnh phúc</td>
-								<td align="center">
-									<img src="<%=request.getContextPath() %>/BT2/images/tmp/hoa5.jpg" class="hoa" />
-								</td>
-								<td align="center">
-									<a href="">Sửa <img src="<%=request.getContextPath() %>/BT2/images/pencil.gif" alt="edit" /></a> 
-									<a href="">Xóa <img src="<%=request.getContextPath() %>/BT2/images/bin.gif" width="16" height="16" alt="delete" /></a>
-								</td>
+								<td align="center"><img
+									src="<%=request.getContextPath() %>/templates/BT2/images/tmp/hoa5.jpg"
+									class="hoa" /></td>
+								<td align="center"><a href="">Sửa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/pencil.gif"
+										alt="edit" /></a> <a href="">Xóa <img
+										src="<%=request.getContextPath() %>/templates/BT2/images/bin.gif"
+										width="16" height="16" alt="delete" /></a></td>
 							</tr>
 
 						</tbody>
@@ -101,16 +112,11 @@
 
 		<div class="pagination">
 			<div class="numbers">
-				<span>Page:</span> 
-				<a href="">1</a> <span>|</span> 
-				<a href="">2</a> <span>|</span> 
-				<span class="current">3</span> <span>|</span> 
-				<a href="">4</a> <span>|</span> 
-				<a href="">5</a> <span>|</span> 
-				<a href="">6</a> <span>|</span> 
-				<a href="">7</a> <span>|</span> 
-				<span>...</span> <span>|</span> 
-				<a href="">99</a>
+				<span>Page:</span> <a href="">1</a> <span>|</span> <a href="">2</a>
+				<span>|</span> <span class="current">3</span> <span>|</span> <a
+					href="">4</a> <span>|</span> <a href="">5</a> <span>|</span> <a
+					href="">6</a> <span>|</span> <a href="">7</a> <span>|</span> <span>...</span>
+				<span>|</span> <a href="">99</a>
 			</div>
 			<div style="clear: both;"></div>
 		</div>
@@ -120,4 +126,4 @@
 
 	<div style="clear: both;"></div>
 
-	<%@include file="inc/footer.jsp"%>
+	<%@include file="/templates/BT2/inc/footer.jsp"%>

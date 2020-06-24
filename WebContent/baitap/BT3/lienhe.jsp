@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT3/inc/header.jsp"%>
 
 <div id="main-body">
 	<div class="main-content">
-		<%@include file="inc/left-bar.jsp"%>
+		<%@include file="/templates/BT3/inc/left-bar.jsp"%>
 		<div class="body-right fr">
 			<div class="news-block">
 				<h2 class="title-cat">Liên hệ</h2>
@@ -64,4 +64,4 @@
 		<div class="clr"></div>
 	</div>
 </div>
-<%@include file="inc/footer.jsp"%>
+<%@include file="/templates/BT3/inc/footer.jsp"%>

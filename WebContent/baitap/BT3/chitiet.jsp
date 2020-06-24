@@ -1,11 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT3/inc/header.jsp"%>
 
 		
 		<div id="main-body">
 			<div class="main-content">
-<%@include file="inc/left-bar.jsp"%>
+<%@include file="/templates/BT3/inc/left-bar.jsp"%>
 
 <div class="body-right fr">
 	<div class="news-block detail">
@@ -26,19 +26,19 @@
 <div class="items">
 	<ul>
 			<li>
-			<a href="/Den-thieng-Sefa-Utaki-o-Okinawa-a218.html" title="Đền thiêng Sefa Utaki ở Okinawa"><img alt="Đền thiêng Sefa Utaki ở Okinawa" src="<%=request.getContextPath() %>/BT3/images/Seifa-utaki.jpg"></a>
+			<a href="/Den-thieng-Sefa-Utaki-o-Okinawa-a218.html" title="Đền thiêng Sefa Utaki ở Okinawa"><img alt="Đền thiêng Sefa Utaki ở Okinawa" src="<%=request.getContextPath() %>/templates/BT3/images/Seifa-utaki.jpg"></a>
 			<p><a href="/Den-thieng-Sefa-Utaki-o-Okinawa-a218.html" title="Đền thiêng Sefa Utaki ở Okinawa">Đền thiêng Sefa Utaki ở Okinawa</a></p>
 		</li>
 			<li>
-			<a href="/Cay-cau-lon-Seto-Naikai-a217.html" title="Cây cầu lớn Seto Naikai"><img alt="Cây cầu lớn Seto Naikai" src="<%=request.getContextPath() %>/BT3/images/Seto-Naikai.jpg"></a>
+			<a href="/Cay-cau-lon-Seto-Naikai-a217.html" title="Cây cầu lớn Seto Naikai"><img alt="Cây cầu lớn Seto Naikai" src="<%=request.getContextPath() %>/templates/BT3/images/Seto-Naikai.jpg"></a>
 			<p><a href="/Cay-cau-lon-Seto-Naikai-a217.html" title="Cây cầu lớn Seto Naikai">Cây cầu lớn Seto Naikai</a></p>
 		</li>
 			<li>
-			<a href="/Nhung-bao-tang-co-mot-khong-hai-o-Nhat-Ban-a216.html" title="Những bảo tàng có một không hai ở Nhật Bản"><img alt="Những bảo tàng có một không hai ở Nhật Bản" src="<%=request.getContextPath() %>/BT3/images/baotangthuoclavamuoi-tokyo.jpg"></a>
+			<a href="/Nhung-bao-tang-co-mot-khong-hai-o-Nhat-Ban-a216.html" title="Những bảo tàng có một không hai ở Nhật Bản"><img alt="Những bảo tàng có một không hai ở Nhật Bản" src="<%=request.getContextPath() %>/templates/BT3/images/baotangthuoclavamuoi-tokyo.jpg"></a>
 			<p><a href="/Nhung-bao-tang-co-mot-khong-hai-o-Nhat-Ban-a216.html" title="Những bảo tàng có một không hai ở Nhật Bản">Những bảo tàng có một không hai ở</a></p>
 		</li>
 			<li>
-			<a href="/Thieu-nu-Nhat-Ban-xinh-tuoi-don-le-Thanh-nhan-a215.html" title="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân"><img alt="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân" src="<%=request.getContextPath() %>/BT3/images/thieununhatban-lethanhnhan.jpg"></a>
+			<a href="/Thieu-nu-Nhat-Ban-xinh-tuoi-don-le-Thanh-nhan-a215.html" title="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân"><img alt="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân" src="<%=request.getContextPath() %>/templates/BT3/images/thieununhatban-lethanhnhan.jpg"></a>
 			<p><a href="/Thieu-nu-Nhat-Ban-xinh-tuoi-don-le-Thanh-nhan-a215.html" title="Thiếu nữ Nhật Bản xinh tươi đón lễ Thành nhân">Thiếu nữ Nhật Bản xinh tươi đón lễ</a></p>
 		</li>
 		</ul>
@@ -69,4 +69,4 @@
 <div class="clr"></div>
 </div>
 	</div>
-<%@include file="inc/footer.jsp"%>
+<%@include file="/templates/BT3/inc/footer.jsp"%>

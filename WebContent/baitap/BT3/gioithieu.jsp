@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT3/inc/header.jsp"%>
 
 <div id="main-body">
 	<div class="main-content">
-		<%@include file="inc/left-bar.jsp"%>
+		<%@include file="/templates/BT3/inc/left-bar.jsp"%>
 		<div class="body-right fr">
 			<div class="news-block">
 				<h2 class="title-cat">Giới thiệu website thông tin về Việt -
@@ -29,7 +29,7 @@
 						quý mảnh đất linh thiêng này. Nhưng trên thực tế, chưa có một tài
 						liệu chính thức nào có thể cung cấp đầy đủ thông tin về Nhật Bản<br>
 
-							<img src="<%=request.getContextPath() %>/BT3/images/gioi-thieu.jpg" title=""
+							<img src="<%=request.getContextPath() %>/templates/BT3/images/gioi-thieu.jpg" title=""
 							style="padding: 5px 0px;"> <a title="" target="_blank"
 								href="/"><font color="#0000ff"><strong>javionline.net</strong>
 								</font> </a> là website <a title="" href="/"><strong>thông tin
@@ -58,4 +58,4 @@
 <div class="clr"></div>
 </div>
 	</div>
-		<%@include file="inc/footer.jsp"%>
+		<%@include file="/templates/BT3/inc/footer.jsp"%>

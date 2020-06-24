@@ -1,15 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@include file="inc/header.jsp"%>
+<%@include file="/templates/BT2/inc/header.jsp"%>
 
 <div class="container_12">
 	<!-- Dashboard icons -->
 	<div class="grid_main_l">
-		<a href="<%=request.getContextPath() %>/BT2/themtintuc.html" class="dashboard-module"> <img
-			src="<%=request.getContextPath() %>/BT2/images/Crystal_Clear_write.gif" width="64" height="64"
+		<a href="<%=request.getContextPath() %>/baitap/BT2/add.jsp" class="dashboard-module"> <img
+			src="<%=request.getContextPath() %>/templates/BT2/images/Crystal_Clear_write.gif" width="64" height="64"
 			alt="edit" /> <span>Thêm tin sản phẩm</span>
-		</a> <a href="<%=request.getContextPath() %>/BT2/themtintuc.html" class="dashboard-module"> <img
-			src="<%=request.getContextPath() %>/BT2/images/Crystal_Clear_files.gif" width="64" height="64"
+		</a> <a href="<%=request.getContextPath() %>/baitap/BT2/add.jsp" class="dashboard-module"> <img
+			src="<%=request.getContextPath() %>/templates/BT2/images/Crystal_Clear_files.gif" width="64" height="64"
 			alt="edit" /> <span>Thêm danh mục</span>
 		</a>
 		<div style="clear: both"></div>
@@ -38,4 +38,4 @@
 
 	<div style="clear: both;"></div>
 
-	<%@include file="inc/footer.jsp"%>
+	<%@include file="/templates/BT2/inc/footer.jsp"%>

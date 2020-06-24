@@ -17,8 +17,8 @@
 	<div class="wrapper">
 		<div id="top-nav">
 			<div class="main-content">
-				<p class="fl"><a href="/lien-he/" title="">TRUNG TÂM ĐÀO TẠO VINAENTER EDU</a></p>
-				<p class="fr mail-icon"><a href="" title="">HOT line: 0909.123.456 - 064.3456.789</a></p>
+				<p class="fl"><a href="<%=request.getContextPath() %>/baitap/BT3/index.jsp" title="">TRUNG TÂM ĐÀO TẠO VINAENTER EDU</a></p>
+				<p class="fr mail-icon"><a href="<%=request.getContextPath() %>/baitap/BT3/lienhe.jsp" title="">HOT line: 0909.123.456 - 064.3456.789</a></p>
 				<div class="clr"></div>
 			</div>
 		</div>
@@ -26,9 +26,9 @@
 		<div id="top-menu">
 			<div class="main-content">
 				<ul>
-											<li class="parent current"><a href="<%=request.getContextPath() %>/BT3/index.jsp">Trang chủ</a></li>
-											<li class="parent"><a href="<%=request.getContextPath() %>/BT3/gioithieu.jsp">Giới thiệu</a></li>
-											<li class="parent"><a href="<%=request.getContextPath() %>/BT3/lienhe.jsp">Liên hệ</a></li>
+											<li class="parent current"><a href="<%=request.getContextPath() %>/baitap/BT3/index.jsp">Trang chủ</a></li>
+											<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/gioithieu.jsp">Giới thiệu</a></li>
+											<li class="parent"><a href="<%=request.getContextPath() %>/baitap/BT3/lienhe.jsp">Liên hệ</a></li>
 										
 							</ul>
 <div class="clr"></div>
