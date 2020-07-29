@@ -39,18 +39,18 @@
 							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp" title="Cây cầu lớn Seto Naikai"
 								class="title">Cây cầu lớn Seto Naikai</a>
 								<p class="cat-date">
-									<a href="/Toan-canh-Nhat-Ban-c1/" title="Toàn cảnh Nhật Bản">Toàn
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Toàn cảnh Nhật Bản">Toàn
 										cảnh Nhật Bản</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Người ta có thể đáp xe lửa nhanh chóng từ
 									Hokkaido lạnh như Sibir, xuyên qua Honshu đến bến cảng Kyushu
 									khí hậu á nhiệt đới và đền miếu...</p></li>
 							<li><a
-								href="/Nhung-bao-tang-co-mot-khong-hai-o-Nhat-Ban-a216.html"
+								href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Những bảo tàng có một không hai ở Nhật Bản" class="title">Những
 									bảo tàng có một không hai ở Nhật Bản</a>
 								<p class="cat-date">
-									<a href="/Toan-canh-Nhat-Ban-c1/" title="Toàn cảnh Nhật Bản">Toàn
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Toàn cảnh Nhật Bản">Toàn
 										cảnh Nhật Bản</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Bảo tàng thuốc lá và muối hay bảo tàng
@@ -63,15 +63,15 @@
 			</div>
 			<div class="news-block">
 				<h2 class="title-cat">
-					<a href="/Tin-tuc-Viet-Nhat-c2/" title="Tin tức Việt - Nhật">Tin
+					<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức Việt - Nhật">Tin
 						tức Việt - Nhật</a>
 				</h2>
 				<div class="content-cat">
 					<div class="item-left fl">
-						<a href="/EVN-ngong-von-Nhat-Ban-a224.html"
+						<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="EVN ngóng vốn Nhật Bản"><img
 							src="<%=request.getContextPath() %>/templates/BT3/images/evn ngong von.jpg" alt="EVN ngóng vốn Nhật Bản" /></a> <a
-							href="/EVN-ngong-von-Nhat-Ban-a224.html"
+							href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="EVN ngóng vốn Nhật Bản" class="title">EVN ngóng vốn
 							Nhật Bản</a>
 						<p>Đã có 12 dự án của ngành điện sử dụng nguồn vốn hỗ trợ phát
@@ -80,32 +80,32 @@
 					</div>
 					<div class="item-right fr">
 						<ul>
-							<li><a href="/Dau-an-huu-nghi-Ha-Noi-Fukuoka-a223.html"
+							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Dấu ấn hữu nghị Hà Nội - Fukuoka" class="title">Dấu
 									ấn hữu nghị Hà Nội - Fukuoka</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-Viet-Nhat-c2/" title="Tin tức Việt - Nhật">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức Việt - Nhật">Tin
 										tức Việt - Nhật</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Trong khuôn khổ “Những ngày Fukuoka tại
 									Hà Nội”, một loạt sự kiện văn hóa Nhật Bản đặc sắc đã để lại
 									dấu ấn tốt đẹp cho...</p></li>
 							<li><a
-								href="/Cai-cach-de-thu-hut-von-dau-tu-Nhat-Ban-a222.html"
+								href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Cải cách để thu hút vốn đầu tư Nhật Bản" class="title">Cải
 									cách để thu hút vốn đầu tư Nhật Bản</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-Viet-Nhat-c2/" title="Tin tức Việt - Nhật">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức Việt - Nhật">Tin
 										tức Việt - Nhật</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Sáng 5-9 tại Hà Nội diễn ra Diễn đàn Kinh
 									tế cấp cao Việt Nam - Nhật Bản 2013 &#40;VJES&#41;. Đây là hoạt
 									động nhân kỷ niệm 40 năm quan hệ...</p></li>
-							<li><a href="/Tao-khac-biet-thu-hut-FDI-Nhat-Ban-a221.html"
+							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Tạo khác biệt thu hút FDI Nhật Bản" class="title">Tạo
 									khác biệt thu hút FDI Nhật Bản</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-Viet-Nhat-c2/" title="Tin tức Việt - Nhật">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức Việt - Nhật">Tin
 										tức Việt - Nhật</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Trong bối cảnh suy giảm kinh tế toàn cầu,
@@ -118,16 +118,16 @@
 			</div>
 			<div class="news-block">
 				<h2 class="title-cat">
-					<a href="/Tin-tuc-giai-tri-c3/" title="Tin tức giải trí">Tin
+					<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức giải trí">Tin
 						tức giải trí</a>
 				</h2>
 				<div class="content-cat">
 					<div class="item-left fl">
-						<a href="/Huyen-thoai-nu-chien-binh-Nhat-Ban-a229.html"
+						<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="Huyền thoại nữ chiến binh Nhật Bản"><img
 							src="<%=request.getContextPath() %>/templates/BT3/images/nu-chien-binh-nhat-ban.jpg"
 							alt="Huyền thoại nữ chiến binh Nhật Bản" /></a> <a
-							href="/Huyen-thoai-nu-chien-binh-Nhat-Ban-a229.html"
+							href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="Huyền thoại nữ chiến binh Nhật Bản" class="title">Huyền
 							thoại nữ chiến binh Nhật Bản</a>
 						<p>Một số tài liệu gọi họ là những “samurai nữ” trong khi cách
@@ -136,32 +136,32 @@
 					</div>
 					<div class="item-right fr">
 						<ul>
-							<li><a href="/Tinh-dung-gio-cua-nguoi-Nhat-a228.html"
+							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Tính đúng giờ của người Nhật" class="title">Tính đúng
 									giờ của người Nhật</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-giai-tri-c3/" title="Tin tức giải trí">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức giải trí">Tin
 										tức giải trí</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Xã hội phát triển thì ý niệm về giờ giấc
 									cũng phải thay đổi để thích ứng với hoàn cảnh mới. Giữ đúng giờ
 									hẹn là 1 đức tính công...</p></li>
-							<li><a href="/Con-so-xui-xeo-cua-nguoi-Nhat-a227.html"
+							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Con số xui xẻo của người Nhật" class="title">Con số
 									xui xẻo của người Nhật</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-giai-tri-c3/" title="Tin tức giải trí">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức giải trí">Tin
 										tức giải trí</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Ở Châu Âu và Mỹ, người ta tin rằng số 13
 									mang lại những điều xui xẻo và thứ 6 ngày 13 là 1 ngày cực kỳ
 									xui trong cuộc đời. Ở Anh, khách...</p></li>
 							<li><a
-								href="/Nhat-Ban-Lao-dong-la-tai-san-quy-gia-nhat-a226.html"
+								href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Nhật Bản: Lao động là tài sản quý giá nhất" class="title">Nhật
 									Bản: Lao động là tài sản quý giá nhất</a>
 								<p class="cat-date">
-									<a href="/Tin-tuc-giai-tri-c3/" title="Tin tức giải trí">Tin
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Tin tức giải trí">Tin
 										tức giải trí</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Nhật Bản là nước nghèo về tài nguyên
@@ -174,15 +174,15 @@
 			</div>
 			<div class="news-block">
 				<h2 class="title-cat">
-					<a href="/Du-hoc-Nhat-Ban-c4/" title="Du học Nhật Bản">Du học
+					<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Du học Nhật Bản">Du học
 						Nhật Bản</a>
 				</h2>
 				<div class="content-cat">
 					<div class="item-left fl">
-						<a href="/Cam-nang-du-hoc-Nhat-Ban-2014-a234.html"
+						<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="Cẩm nang du học Nhật Bản 2014"><img
 							src="<%=request.getContextPath() %>/templates/BT3/images/cam-nang.jpg" alt="Cẩm nang du học Nhật Bản 2014" /></a>
-						<a href="/Cam-nang-du-hoc-Nhat-Ban-2014-a234.html"
+						<a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 							title="Cẩm nang du học Nhật Bản 2014" class="title">Cẩm nang
 							du học Nhật Bản 2014</a>
 						<p>Du Học Nhật Bản Năm 2014 – Vì sao ngày càng nhiều các bạn
@@ -191,35 +191,35 @@
 					</div>
 					<div class="item-right fr">
 						<ul>
-							<li><a href="/Du-hoc-Nhat-Ban-nhieu-loi-the-a233.html"
+							<li><a href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Du học Nhật Bản nhiều lợi thế" class="title">Du học
 									Nhật Bản nhiều lợi thế</a>
 								<p class="cat-date">
-									<a href="/Du-hoc-Nhat-Ban-c4/" title="Du học Nhật Bản">Du
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Du học Nhật Bản">Du
 										học Nhật Bản</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Du học Nhật Bản ngoài việc học hỏi tri
 									thức, công nghệ, điều quan trọng là du học sinh học hỏi được
 									phong cách làm việc và ý thức kỷ...</p></li>
 							<li><a
-								href="/Suy-nghi-cua-du-hoc-sinh-tai-nhat-ve-Homestay-(O-nha-dan)-a232.html"
+								href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Suy nghĩ của du học sinh tại nhật về Homestay (Ở nhà dân)"
 								class="title">Suy nghĩ của du học sinh tại nhật về Homestay
 									(Ở nhà dân)</a>
 								<p class="cat-date">
-									<a href="/Du-hoc-Nhat-Ban-c4/" title="Du học Nhật Bản">Du
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Du học Nhật Bản">Du
 										học Nhật Bản</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Là một du học sinh đang đi du học tại
 									Nhật Bản tôi đã homestay &#40;ở nhà dân&#41; một tuần với một
 									gia đình người Nhật đó là một...</p></li>
 							<li><a
-								href="/Du-hoc-Nhat-Ban-va-Tu-nghiep-Nhat-Ban-khac-nhau-nhu-the-nao-a231.html"
+								href="<%=request.getContextPath() %>/baitap/BT3/chitiet.jsp"
 								title="Du học Nhật Bản và Tu nghiệp Nhật Bản khác nhau như thế nào?"
 								class="title">Du học Nhật Bản và Tu nghiệp Nhật Bản khác
 									nhau như thế nào?</a>
 								<p class="cat-date">
-									<a href="/Du-hoc-Nhat-Ban-c4/" title="Du học Nhật Bản">Du
+									<a href="<%=request.getContextPath() %>/baitap/BT3/danhmuc.jsp" title="Du học Nhật Bản">Du
 										học Nhật Bản</a> <span>Cập nhật: 24/01/2014</span>
 								</p>
 								<p class="preview">Du học Nhật Bản và Tu nghiệp Nhật Bản
